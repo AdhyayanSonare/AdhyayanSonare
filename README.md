@@ -1,18 +1,66 @@
-# 💫 About Me:
-First-year B.Tech CSE student with a solid foundation in modern web technologies and a proven commitment to web development through self-directed learning. Experience includes participation in startup projects and national competitions, showcasing practical application of skills. Actively exploring AI and ML to enhance technical expertise and contribute to innovative solutions. Passionate speaker with a drive to engage in real-world projects.<br>
+<img src="assets/hero.webp" width="100%" alt="Adhyayan Sonare. A 3D rendered moonlit sea moves slowly under a full moon.">
 
+<p align="center"><strong>Full-stack developer. I build for the web, from the interface to the data.</strong></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhyayan_sonare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adhyayan Sonare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AdhyayanSonare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhyayansonare15@gmail.com) 
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#tools">Tools</a> &nbsp;·&nbsp;
+  <a href="https://x.com/AdhyayanSonare">X</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/adhyayan_sonare/">Instagram</a> &nbsp;·&nbsp;
+  <a href="mailto:adhyayansonare15@gmail.com">Email</a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdhyayanSonare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdhyayanSonare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyayanSonare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=AdhyayanSonare&icon=0&color=0)](https://visitcount.itsvg.in)
+## About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a second-year B.Tech CSE student at Symbiosis Institute of Technology. I taught myself web development and now work across the full stack.
+
+I've worked on startup projects and national competitions, and I enjoy public speaking.
+
+**Right now**
+
+- Building with Astraon AI
+- Learning AI and ML
+- Exploring 3D on the web with Three.js and GSAP
+
+<br>
+
+## Tools
+
+**Languages**<br>
+<kbd><img src="assets/icon-typescript.svg" height="14" align="absmiddle" alt=""> TypeScript</kbd> <kbd><img src="assets/icon-javascript.svg" height="14" align="absmiddle" alt=""> JavaScript</kbd> <kbd><img src="assets/icon-python.svg" height="14" align="absmiddle" alt=""> Python</kbd> <kbd><img src="assets/icon-c.svg" height="14" align="absmiddle" alt=""> C</kbd> <kbd><img src="assets/icon-cplusplus.svg" height="14" align="absmiddle" alt=""> C++</kbd>
+
+**Interface**<br>
+<kbd><img src="assets/icon-react.svg" height="14" align="absmiddle" alt=""> React</kbd> <kbd><img src="assets/icon-html5.svg" height="14" align="absmiddle" alt=""> HTML</kbd> <kbd><img src="assets/icon-css.svg" height="14" align="absmiddle" alt=""> CSS</kbd> <kbd><img src="assets/icon-threedotjs.svg" height="14" align="absmiddle" alt=""> Three.js</kbd> <kbd><img src="assets/icon-gsap.svg" height="14" align="absmiddle" alt=""> GSAP</kbd> <kbd><img src="assets/icon-tailwindcss.svg" height="14" align="absmiddle" alt=""> Tailwind</kbd>
+
+**Server and data**<br>
+<kbd><img src="assets/icon-nodedotjs.svg" height="14" align="absmiddle" alt=""> Node.js</kbd> <kbd><img src="assets/icon-express.svg" height="14" align="absmiddle" alt=""> Express</kbd> <kbd><img src="assets/icon-mongodb.svg" height="14" align="absmiddle" alt=""> MongoDB</kbd>
+
+**Build and deploy**<br>
+<kbd><img src="assets/icon-git.svg" height="14" align="absmiddle" alt=""> Git</kbd> <kbd><img src="assets/icon-vite.svg" height="14" align="absmiddle" alt=""> Vite</kbd> <kbd><img src="assets/icon-vercel.svg" height="14" align="absmiddle" alt=""> Vercel</kbd>
+
+<br>
+
+## GitHub stats
+
+<picture>
+  <source media="(max-width: 1011px) and (prefers-color-scheme: dark)" srcset="assets/stats-dark-m.svg">
+  <source media="(max-width: 1011px)" srcset="assets/stats-light-m.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="GitHub stats: contributions, active days, best streak, public repositories, activity by month and languages. Updated daily from real GitHub data.">
+</picture>
+
+<br>
+
+<a href="https://github.com/AdhyayanSonare?tab=repositories"><img src="assets/ripples.webp" width="100%" alt="Rings spread across dark moonlit water. Each ring is a day of public work in the year to November 2026."></a>
+
+<p align="center"><sub>Every ring is a day of public work in the year to November 2026.</sub></p>
+
+<br>
+
+<h2 align="center">Say hello</h2>
+
+<p align="center">Happy to talk about the web, 3D, or AI and ML.<br><a href="mailto:adhyayansonare15@gmail.com">adhyayansonare15@gmail.com</a></p>
+
+<img src="assets/calm.webp" width="100%" alt="Calm water under the moon.">
