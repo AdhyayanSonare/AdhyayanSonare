@@ -51,9 +51,9 @@ I've worked on startup projects and national competitions, and I enjoy public sp
   <img src="assets/stats-light.svg" width="100%" alt="GitHub stats: contributions, active days, best streak, public repositories, activity by month and languages. Updated daily from real GitHub data.">
 </picture>
 
-<br>
+<br><br>
 
-<a href="https://github.com/AdhyayanSonare?tab=repositories"><img src="assets/ripples.webp" width="100%" alt="Rings spread across dark moonlit water. Each ring is a day of public work in the year to November 2026."></a>
+<a href="https://github.com/AdhyayanSonare?tab=repositories"><img src="assets/ripples-moving.webp" width="100%" alt="Rings spread across dark moonlit water. Each ring is a day of public work in the year to November 2026."></a>
 
 <p align="center"><sub>Every ring is a day of public work in the year to November 2026.</sub></p>
 
@@ -63,4 +63,4 @@ I've worked on startup projects and national competitions, and I enjoy public sp
 
 <p align="center">Happy to talk about the web, 3D, or AI and ML.<br><a href="mailto:adhyayansonare15@gmail.com">adhyayansonare15@gmail.com</a></p>
 
-<img src="assets/calm.webp" width="100%" alt="Calm water under the moon.">
+<img src="assets/calm-moving.webp" width="100%" alt="Calm water under the moon.">
